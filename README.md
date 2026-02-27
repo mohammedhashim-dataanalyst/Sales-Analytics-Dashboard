@@ -1,29 +1,25 @@
-# Sales Analytics Dashboard
+# 📊 Sales Analytics Dashboard
 
-## Overview
-Performed end-to-end sales data analysis using Python and Power BI on 10,000+ records.
-## Dataset
-
-Sales Forecasting Dataset (Kaggle)
-
-Dataset contains transactional sales data including order date, region, product details, sales, and profit information.
-
-## Tools Used
+## 🔧 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
-- Power BI
-- Excel
+- Jupyter Notebook
+- Data Cleaning & EDA
 
-## Key Insights
-- Identified top revenue generating products
-- Analyzed monthly sales growth trends
-- Evaluated region-wise performance
+## 📈 Project Overview
+This project analyzes 9,800 sales records to identify trends, product performance, and regional revenue patterns.
 
-## Outcome
-Developed interactive dashboard for business decision-making.
-## How to Run
+## 📊 Key Insights
+- Sales show an increasing trend over time.
+- Revenue peaks during certain months.
+- Regional performance varies significantly.
 
-1. Download the dataset as sales.csv
-2. Place the file in the same directory as sales_analysis.py
-3. Run the script using Python
-4. Cleaned dataset will be exported as sales_cleaned.csv
-5. Import sales_cleaned.csv into Power BI to build dashboard
+## 📂 Files Included
+- sales_analysis.ipynb → Full analysis notebook
+- cleaned_sales_data.csv → Cleaned dataset
+- monthly_revenue_trend.png → Trend visualization
+
+## 🚀 Skills Demonstrated
+- Data Cleaning
+- Date Handling
+- Time-Series Analysis
+- Business Insight Generation
