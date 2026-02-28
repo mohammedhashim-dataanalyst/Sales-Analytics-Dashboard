@@ -1,5 +1,9 @@
 # 📊 Sales Analytics Dashboard
 
+## 🔍 Confusion Matrix
+
+![Monthly_Revenue_Trend](/monthly_revenue_trend.png.png)
+
 ## 🔧 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
