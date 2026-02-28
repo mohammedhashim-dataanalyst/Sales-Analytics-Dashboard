@@ -2,7 +2,7 @@
 
 ## 🔍 Confusion Matrix
 
-![Monthly_Revenue_Trend](/monthly_revenue_trend.png.png)
+![Monthly_Revenue_Trend](/monthly_revenue_trend.png)
 
 ## 🔧 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
